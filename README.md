@@ -1,5 +1,4 @@
-
-# Prédiction du départ client (Churn) – Projet Télécom(https://github.com/Samadkod/Churn_prediction/blob/main/Projet%20data_%20churn_T%C3%A9l%C3%A9com..ipynb)
+# [Prédiction du départ client (Churn) – Projet Télécom](https://github.com/Samadkod/Churn_prediction/blob/main/Churn_Carrousel_SamadKODON_VERSION_FINALE.pdf)
 
 ## 🎯 Objectif du projet
 L’objectif de ce projet est d’anticiper les départs de clients dans le secteur des télécommunications, 
@@ -43,8 +42,8 @@ Il contient des informations sur le profil client, les services souscrits, le co
 ---
 
 ## 📈 Résultats obtenus
-- Précision de détection : environ 82 %
-- AUC : 0.84
+- Précision de détection : environ 80 %
+- AUC : 0.83
 - Variables clés :
   - Ancienneté du client
   - Type de contrat (mensuel vs engagement)
