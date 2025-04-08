@@ -76,7 +76,7 @@ Il s’agit d’un **projet pédagogique**, mais qui reproduit une logique méti
 ---
 
 ## 🔗 Liens utiles
-- [Carrousel LinkedIn du projet – à venir]
+- [Carrousel LinkedIn du projet – à venir](https://github.com/Samadkod/Churn_prediction/blob/main/Projet%20data_%20churn_T%C3%A9l%C3%A9com..ipynb)
 - [Portfolio complet de projets – bientôt disponible]
 
 ---
